@@ -1,0 +1,22 @@
+{
+  "name": "getstatus",
+  "version": "1.0.0",
+  "description": "This service will send birthday wish message to each user of various projects on their birthday",
+  "main": "service.js",
+  "scripts": {
+    "test": "test service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveensaini2306/getstatus.git"
+  },
+  "keywords": [
+    "teamscale"
+  ],
+  "author": "Praveen Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveensaini2306/getstatus/issues"
+  },
+  "homepage": "https://github.com/praveensaini2306/getstatus#readme"
+}
